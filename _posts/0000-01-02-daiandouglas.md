@@ -2,5 +2,5 @@
  layout : slide
 title : " Bem-vindo ao nosso segundo slide! "
 ---
-Seu texto 
+Aqui um texto de *teste*!
 Use uma seta esquerda para voltar!
